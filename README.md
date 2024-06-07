@@ -1,6 +1,3 @@
-Certainly! Here’s a README for your Cinemate project:
-
----
 
 # Cinemate
 
